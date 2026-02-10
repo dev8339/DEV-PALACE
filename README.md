@@ -1,6 +1,6 @@
 DEV PALACE | Luxury Hotel Booking Form
 
-Project Overview
+Project Overview :
 
 This project is a functional and responsive hotel booking form designed for DEV PALACE. It allows users to select check-in and check-out dates, choose room types, and calculate total costs dynamically. The application ensures a seamless user experience with real-time validation and a modern UI.
 
@@ -9,26 +9,28 @@ This project is a functional and responsive hotel booking form designed for DEV 
 
 ✨ Key Features
 
-Dynamic Date Validation: Implements logic to ensure the check-out date is always later than the check-in date.  
+# Dynamic Date Validation:
+
+Implements logic to ensure the check-out date is always later than the check-in date.  
 
 
-Real-Time Price Calculation:
+# Real-Time Price Calculation:
 
 Automatically calculates the total stay cost based on the selected room type and number of 
 nights.
 
 
-Responsive Design:
+# Responsive Design:
 
 Fully optimized for Mobile, Tablet, and Desktop views using Tailwind CSS.  
 
 
-Smart Date Restrictions:
+# Smart Date Restrictions:
 
 Prevents users from selecting past dates for bookings.  
 
 
-User Feedback:
+# User Feedback:
 
 Provides instant success or error messages upon form submission.  
 
