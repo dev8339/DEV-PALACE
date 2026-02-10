@@ -1,6 +1,7 @@
 DEV PALACE | Luxury Hotel Booking Form
 
 Project Overview
+
 This project is a functional and responsive hotel booking form designed for DEV PALACE. It allows users to select check-in and check-out dates, choose room types, and calculate total costs dynamically. The application ensures a seamless user experience with real-time validation and a modern UI.
 
 🚀 Live Demo
