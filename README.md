@@ -1,4 +1,4 @@
-## DEV PALACE | Luxury Hotel Booking Form
+# DEV PALACE | Luxury Hotel Booking Form
 
 Project Overview :
 
@@ -9,7 +9,7 @@ This project is a functional and responsive hotel booking form designed for DEV 
 
 ✨ Key Features
 
-#Dynamic Date Validation:
+# Dynamic Date Validation:
 
 Implements logic to ensure the check-out date is always later than the check-in date.  
 
